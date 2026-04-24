@@ -1,0 +1,14 @@
+Algorithme somme_10_premiers_nombre ;
+Var :
+	i, somme : entiers ;
+Debut
+	somme <-- 0;
+	i <-- 0;
+	
+	Repetez 
+		somme <-- somme + i ;
+		i <-- i + 1 ;
+	Jusqu'a i > 10 ;
+	
+	Ecrire "La somme des dix premiers nombres est : " , somme;
+Fin
