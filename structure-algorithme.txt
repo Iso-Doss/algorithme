@@ -1,0 +1,8 @@
+Aglorithme <nom_de_l_alogorithme>
+Var : 
+	Declaration des variables ;
+Conte : 
+	Declaration des constantes ;
+Debut
+	Instruction(s);
+Fin
