@@ -1,0 +1,15 @@
+Algorithme le_plus_grand ;
+Var : 
+	a,b : reels ;
+Debut 
+	Ecrire "Entrer un nombre" ;
+	Lire a ;
+	Ecrire "Entrer un nombre" ;
+	Lire b ;
+
+	Si a > b alors :
+		Ecrire a , " est le plus grand." ;
+	Sinon
+		Ecrire b , " est le plus grand." ;
+	Finsi
+Fin
